@@ -1,0 +1,7 @@
+com/schedule/botconfig/MsluScheduleBot.class
+com/schedule/service/ScheduleService.class
+com/schedule/dao/Schedule.class
+com/schedule/repository/ScheduleRepository.class
+com/schedule/SpringBootApplication2.class
+com/schedule/dto/ScheduleDto.class
+com/schedule/BeansConfig.class
