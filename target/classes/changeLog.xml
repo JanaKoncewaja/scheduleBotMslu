@@ -7,10 +7,10 @@
    http://www.liquibase.org/xml/ns/dbchangelog
    http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.4.xsd">
 
-    <changeSet id="1.1.4" author="yana">
+    <changeSet id="1.1.5" author="yana">
         <sql>
           create table schedule(
-            id int not null primary key serial,
+            id serial primary key,
             year_of_study int not null,
             group_number int not null,
             first_day_of_requested_week date not null,
