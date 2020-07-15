@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79811120-2f93-4790-bfa5-c9b56153179f" name="Default Changelist" comment="" />
+    <list default="true" id="79811120-2f93-4790-bfa5-c9b56153179f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/changeLog.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/changeLog.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/changeLog.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/changeLog.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/schedule/BeansConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/schedule/SpringBootApplication2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/schedule/botconfig/MsluScheduleBot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/schedule/dao/Schedule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/schedule/dto/ScheduleDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/schedule/repository/ScheduleRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/schedule/service/ScheduleService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.schedule.service.ScheduleServiceTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.schedule.service.ScheduleServiceTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/schedule/service/ScheduleServiceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/universitySchedule-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/universitySchedule-1.0-SNAPSHOT.jar.original" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +45,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -32,6 +61,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1aIykIGTlshnYtOPiGAg7xhCwWA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -39,6 +69,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last.edited.regexp" value="jjjj, k" />
@@ -107,6 +138,10 @@
     </state>
     <state x="320" y="82" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1588074922695" />
     <state x="320" y="98" key="#Project_Structure/0.23.1440.822@0.23.1440.822" timestamp="1586622605023" />
+    <state x="845" y="243" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594815408175">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="845" y="243" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.823@0.23.1440.823" timestamp="1594815408175" />
     <state x="533" y="183" width="560" height="567" key="#com.intellij.ide.util.MemberChooser" timestamp="1588072996407">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
@@ -118,10 +153,14 @@
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state x="340" y="115" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.1440.822@0.23.1440.822" timestamp="1586438285926" />
-    <state width="982" height="202" key="GridCell.Tab.0.bottom" timestamp="1594374661883">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state x="332" y="52" key="CommitChangelistDialog2" timestamp="1594815577601">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="202" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1593858041071" />
+    <state x="332" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1594815577601" />
+    <state width="1398" height="234" key="GridCell.Tab.0.bottom" timestamp="1594815577691">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="234" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594815577691" />
     <state width="1398" height="175" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1589620078588" />
     <state width="982" height="202" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1594374661883" />
     <state width="1398" height="175" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1588090107390" />
@@ -130,10 +169,10 @@
     <state width="1398" height="175" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1589112167254" />
     <state width="1398" height="175" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1588017562577" />
     <state width="1358" height="203" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1587459853379" />
-    <state width="982" height="202" key="GridCell.Tab.0.center" timestamp="1594374661882">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state width="1398" height="234" key="GridCell.Tab.0.center" timestamp="1594815577690">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="202" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1593858041069" />
+    <state width="1398" height="234" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1594815577690" />
     <state width="1398" height="175" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1589620078588" />
     <state width="982" height="202" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1594374661882" />
     <state width="1398" height="175" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1588090107389" />
@@ -142,10 +181,10 @@
     <state width="1398" height="175" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1589112167253" />
     <state width="1398" height="175" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1588017562575" />
     <state width="1358" height="203" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1587459853376" />
-    <state width="982" height="202" key="GridCell.Tab.0.left" timestamp="1594374661882">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state width="1398" height="234" key="GridCell.Tab.0.left" timestamp="1594815577689">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="202" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1593858041068" />
+    <state width="1398" height="234" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1594815577689" />
     <state width="1398" height="175" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1589620078587" />
     <state width="982" height="202" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1594374661882" />
     <state width="1398" height="175" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1588090107388" />
@@ -154,10 +193,10 @@
     <state width="1398" height="175" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1589112167252" />
     <state width="1398" height="175" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1588017562575" />
     <state width="1358" height="203" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1587459853374" />
-    <state width="982" height="202" key="GridCell.Tab.0.right" timestamp="1594374661883">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state width="1398" height="234" key="GridCell.Tab.0.right" timestamp="1594815577690">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="202" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1593858041070" />
+    <state width="1398" height="234" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1594815577690" />
     <state width="1398" height="175" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1589620078588" />
     <state width="982" height="202" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1594374661883" />
     <state width="1398" height="175" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1588090107389" />

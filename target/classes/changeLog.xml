@@ -7,10 +7,10 @@
    http://www.liquibase.org/xml/ns/dbchangelog
    http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.4.xsd">
 
-    <changeSet id="1.1.3" author="yana">
+    <changeSet id="1.1.4" author="yana">
         <sql>
           create table schedule(
-            id int not null primary key auto_increment,
+            id int not null primary key serial,
             year_of_study int not null,
             group_number int not null,
             first_day_of_requested_week date not null,
@@ -20,12 +20,12 @@
         </sql>
     </changeSet>
 
-    <changeSet id="1.2.2.3" author ="yana">
+    <changeSet id="1.2.2.4" author ="yana">
         <sql>
         insert into schedule(year_of_study,
         group_number, first_day_of_requested_week,last_day_of_requested_week ,
         pdf_path) values (2020, 210, '2020-04-13', '2020-04-19',
-            '/Users/yanina/IdeaProjects/universitySchedule/src/main/resources/scheduleGroup210-13-19.04-2020.pdf')
+            '/src/main/resources/scheduleGroup210-13-19.04-2020.pdf')
         </sql>
     </changeSet>
 </databaseChangeLog>
