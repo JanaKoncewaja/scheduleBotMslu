@@ -162,7 +162,7 @@
                 <version>3.5.3</version>
                 <configuration>
                     <changeLogFile>src/main/resources/changeLog.xml</changeLogFile>
-                    <url>jdbc:postgresql://ec2-54-247-89-181.eu-west-1.compute.amazonaws.com?sslmode=require
+                    <url>jdbc:postgresql://ec2-54-247-89-181.eu-west-1.compute.amazonaws.com/d2avrqaq29t3cu?sslmode=require
                     </url>
                     <username>rvmnpaqfdbljoi</username>
                     <password>e01ff95e332ce8beb6c919a1a09975a21fe16526acf235b0fbe5f675ec575ce1</password>

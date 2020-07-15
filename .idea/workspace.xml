@@ -2,31 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79811120-2f93-4790-bfa5-c9b56153179f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/changeLog.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/changeLog.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/changeLog.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/changeLog.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/schedule/BeansConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/schedule/SpringBootApplication2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/schedule/botconfig/MsluScheduleBot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/schedule/dao/Schedule.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/schedule/dto/ScheduleDto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/schedule/repository/ScheduleRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/schedule/service/ScheduleService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.schedule.service.ScheduleServiceTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.schedule.service.ScheduleServiceTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/schedule/service/ScheduleServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/universitySchedule-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/universitySchedule-1.0-SNAPSHOT.jar.original" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +106,19 @@
       <option name="presentableId" value="Default" />
       <updated>1586437543812</updated>
     </task>
+    <task id="LOCAL-00001" summary="any changes">
+      <created>1594815602737</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594815602738</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="any changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="any changes" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="82" key="#Project_Structure" timestamp="1588074922695">
@@ -153,10 +141,10 @@
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state x="340" y="115" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.1440.822@0.23.1440.822" timestamp="1586438285926" />
-    <state x="332" y="52" key="CommitChangelistDialog2" timestamp="1594815577601">
+    <state x="332" y="52" key="CommitChangelistDialog2" timestamp="1594815601506">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="332" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1594815577601" />
+    <state x="332" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1594815601506" />
     <state width="1398" height="234" key="GridCell.Tab.0.bottom" timestamp="1594815577691">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -210,6 +198,10 @@
     </state>
     <state x="221" y="63" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1588075048444" />
     <state x="221" y="23" width="1024" height="827" key="SettingsEditor/0.23.1440.827@0.23.1440.827" timestamp="1588086604453" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1594815617115">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1594815617115" />
     <state x="397" y="265" key="com.intellij.ide.util.TipDialog" timestamp="1586874012260">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
