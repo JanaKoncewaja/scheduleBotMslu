@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="79811120-2f93-4790-bfa5-c9b56153179f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,10 +50,10 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last.edited.regexp" value="jjjj, k" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.570115" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="instant.run" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -128,14 +127,22 @@
       <option name="project" value="LOCAL" />
       <updated>1594831984628</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="liquibase">
+      <created>1594832956525</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1594832956525</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="any changes" />
     <MESSAGE value="dburl" />
     <MESSAGE value="changelog changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="changelog changes" />
+    <MESSAGE value="liquibase" />
+    <option name="LAST_COMMIT_MESSAGE" value="liquibase" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="82" key="#Project_Structure" timestamp="1588074922695">
@@ -158,10 +165,10 @@
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state x="340" y="115" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.1440.822@0.23.1440.822" timestamp="1586438285926" />
-    <state x="332" y="52" key="CommitChangelistDialog2" timestamp="1594831984460">
+    <state x="332" y="52" key="CommitChangelistDialog2" timestamp="1594832956360">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="332" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1594831984460" />
+    <state x="332" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1594832956360" />
     <state width="1398" height="234" key="GridCell.Tab.0.bottom" timestamp="1594831865502">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -210,15 +217,15 @@
     <state width="1398" height="175" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1589112167253" />
     <state width="1398" height="175" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1588017562576" />
     <state width="1358" height="203" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1587459853377" />
-    <state x="221" y="23" width="1024" height="827" key="SettingsEditor" timestamp="1588086604453">
-      <screen x="0" y="23" width="1440" height="827" />
-    </state>
-    <state x="221" y="63" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1588075048444" />
-    <state x="221" y="23" width="1024" height="827" key="SettingsEditor/0.23.1440.827@0.23.1440.827" timestamp="1588086604453" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1594831995325">
+    <state x="221" y="63" width="1024" height="827" key="SettingsEditor" timestamp="1594833253392">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1594831995325" />
+    <state x="221" y="63" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1594833253392" />
+    <state x="221" y="23" width="1024" height="827" key="SettingsEditor/0.23.1440.827@0.23.1440.827" timestamp="1588086604453" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1594832970584">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1594832970584" />
     <state x="397" y="265" key="com.intellij.ide.util.TipDialog" timestamp="1586874012260">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
