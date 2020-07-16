@@ -17,7 +17,8 @@
 
     <properties>
         <main.basedir>${basedir}/../..</main.basedir>
-        <java.version>13</java.version>
+<!--        <maven.compiler.source>13.0.2</maven.compiler.source>-->
+<!--        <maven.compiler.target>13.0.2</maven.compiler.target>-->
         <spring.boot.version>2.2.5.RELEASE</spring.boot.version>
     </properties>
 
@@ -205,6 +206,7 @@
                     </execution>
                 </executions>
             </plugin>
+
         </plugins>
     </build>
 
