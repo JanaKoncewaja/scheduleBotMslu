@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79811120-2f93-4790-bfa5-c9b56153179f" name="Default Changelist" comment="procfile">
+    <list default="true" id="79811120-2f93-4790-bfa5-c9b56153179f" name="Default Changelist" comment="Зкщсашду">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -198,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594893769744</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Зкщсашду">
+      <created>1595341627584</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1595341627584</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -212,7 +220,8 @@
     <MESSAGE value="&#10;jj" />
     <MESSAGE value="[&#10;jj]" />
     <MESSAGE value="procfile" />
-    <option name="LAST_COMMIT_MESSAGE" value="procfile" />
+    <MESSAGE value="Зкщсашду" />
+    <option name="LAST_COMMIT_MESSAGE" value="Зкщсашду" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="82" key="#Project_Structure" timestamp="1588074922695">
@@ -235,11 +244,11 @@
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state x="340" y="115" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.1440.822@0.23.1440.822" timestamp="1586438285926" />
-    <state x="332" y="33" key="CommitChangelistDialog2" timestamp="1595341487955">
+    <state x="332" y="33" key="CommitChangelistDialog2" timestamp="1595341653879">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="332" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1594892297194" />
-    <state x="332" y="33" key="CommitChangelistDialog2/0.23.1440.823@0.23.1440.823" timestamp="1595341487955" />
+    <state x="332" y="33" key="CommitChangelistDialog2/0.23.1440.823@0.23.1440.823" timestamp="1595341653879" />
     <state x="475" y="222" key="EnvironmentVariablesDialog" timestamp="1594835707695">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -297,14 +306,19 @@
     </state>
     <state x="0" y="0" width="1440" height="900" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1594890229793" />
     <state x="221" y="23" width="1024" height="827" key="SettingsEditor/0.23.1440.827@0.23.1440.827" timestamp="1588086604453" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1594893783203">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="320" y="197" key="Vcs.Push.Dialog.v2" timestamp="1595341673754">
+      <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1594893783203" />
+    <state x="320" y="197" key="Vcs.Push.Dialog.v2/0.23.1440.823@0.23.1440.823" timestamp="1595341673754" />
     <state x="397" y="265" key="com.intellij.ide.util.TipDialog" timestamp="1586874012260">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="397" y="265" key="com.intellij.ide.util.TipDialog/0.23.1440.823@0.23.1440.823" timestamp="1586874012260" />
+    <state x="687" y="357" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595344018742">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="687" y="357" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.823@0.23.1440.823" timestamp="1595344018742" />
     <state x="495" y="199" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1589454822040">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
